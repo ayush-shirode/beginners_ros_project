@@ -1,0 +1,18 @@
+[11.285s] Invoking command in '/home/ayush/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/ayush/ros2_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ayush/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ayush/ros2_ws/build/my_robot_controller/build --no-deps symlink_data
+[14.407s] running develop
+[15.770s] running egg_info
+[15.771s] writing my_robot_controller.egg-info/PKG-INFO
+[15.771s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[15.771s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[15.771s] writing requirements to my_robot_controller.egg-info/requires.txt
+[15.771s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[15.843s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[15.886s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[15.934s] running build_ext
+[15.934s] Creating /home/ayush/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[15.939s] Installing draw_circle = my_robot_controller.draw_circle:mainpose_subscriber script to /home/ayush/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[15.939s] Installing test_node script to /home/ayush/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[15.939s] 
+[15.939s] Installed /home/ayush/ros2_ws/build/my_robot_controller
+[15.939s] running symlink_data
+[16.472s] Invoked command in '/home/ayush/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/ayush/ros2_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ayush/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ayush/ros2_ws/build/my_robot_controller/build --no-deps symlink_data
